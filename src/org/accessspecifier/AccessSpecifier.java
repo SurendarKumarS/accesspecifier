@@ -6,5 +6,9 @@ public class AccessSpecifier {
 		System.out.println("Employee name is Kumar");
 	}
 	
+	public void empId() {
+		System.out.println("Employee id is 123");
+	}
+	
 
 }
